@@ -1,0 +1,6 @@
+convokit
+torch==1.5.0
+transformers==4.16.2
+datasets==1.18.3
+google
+rouge==1.0.1
